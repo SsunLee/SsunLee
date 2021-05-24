@@ -10,13 +10,15 @@
 
 <br></br>
 ### QA Engineer
- - 자율주행로봇 플랫폼 QA
-   - Project Kick-off ~ Release 참여 
+ - LG전자 자율주행로봇 로봇품질보증 QA
+   - Kick-off ~ Release 참여 
    - PRD, SRS, UX Scenario Review 참여 
    - PM / SW PL / UX / Design 협업 
-   - Test Basis (SRS, PRD, UX Scenario) 기반 Test Case 작성
-   - Test Case 심의회 참여 
-   - Test Strategy 및 Test Plan 제작 
+   - Test Basis (SRS, PRD, UX Scenario) 기반 Test Case 개발
+   - Test Strategy 및 Test Plan 개발
+   - 테스트요약보고서 작성 및 관리
+   - 테스트결과보고서 작성 및 관리
+   - 테스트 산출물 관리
    
  - .NET 개발자 (Winform, .Net Core)
  - LG전자 모바일 단말 검증
