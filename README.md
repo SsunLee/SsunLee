@@ -8,3 +8,10 @@
 SsunLee/SsunLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+<h3>ㆍQA Engineer </h3>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;ㆍ 자율주행로봇 플랫폼 QA <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;ㆍ .NET 개발자 (C#, VB.NET) <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;ㆍ LG전자 모바일 단말 검증 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;ㆍ NHN 한게임 QA 
+</p>
