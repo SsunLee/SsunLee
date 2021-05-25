@@ -23,11 +23,12 @@
      * 로봇관제시스템 WEB Page
 <br>
 
- + .NET 개발자 (Winform, .Net Core)
+ + LG전자 MC인정 TASK팀 - .NET 개발자 (Winform, .Net Core)
    - 품질관리시스템 구축
    - ADB 이용한 Mobile Phone 환경 세팅 자동화 구축
    - 각 종 자산 관리 시스템 구축
    - HP QC Api 사용하여 결함 분석 시스템 구축
+   - 각 종 문서 자동화 개발 (c#, vb.net, mysql, mdb, .. etc)
 <br>
 
  + LG전자 선행개발연구소 - 사업자 APP 팀
@@ -49,3 +50,12 @@
    - BTS 사용하여 Bug Report
    - OS별 호환성 Test 수행
    - 업데이트 시기에 맞춰 Dynamic한 Test 수행
+<br>
+
+ + ETC
+   - 퇴근 자동 Check 프로그램 개발 (C#, Selenium, Pillow)
+   - Outlook Email 자동 발송 및 양식 자동화 개발 (Python, win32 api)
+   - Excel Printer 자동화 (VBA)
+   - Excel 모임비 정산 자동화 (VBA)
+   - APK Auto Install Program 개발 (C#)
+   - Mobile Screen Shot / Screen Recording Tool 개발 (C#)
