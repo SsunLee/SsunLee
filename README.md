@@ -11,16 +11,24 @@
 <br></br>
 ### QA Engineer
  + LG전자 자율주행로봇 로봇품질보증 QA
-   - Kick-off ~ Release 참여 
-   - PRD, SRS, UX Scenario Review 참여 
-   - PM / SW PL / UX / Design 협업 
-   - Test Basis (SRS, PRD, UX Scenario) 기반 Test Case 개발
-   - Test Strategy 및 Test Plan 개발
-   - 테스트요약보고서 작성 및 관리
-   - 테스트결과보고서 작성 및 관리
-   - 테스트 산출물 관리
-   - 현재는 RPA를 이용한 WEB 자동화 구현 도입 중 (UI Path이용)
-     * 로봇관제시스템 WEB Page
+   - 진행 프로젝트 이력
+     - 로봇관제시스템(Android, iOS, WEB)
+     - F&B 선반형 서빙 로봇 (우아한형제들, Deli)
+     - HhH 서랍형 배송 로봇 (서울대병원, 르호텔, etc)
+     - 안내로봇 (현대)
+   - 주요 업무
+     - Kick-off ~ Release 참여 
+     - PRD, SRS, UX Scenario Review 참여 
+     - PM / SW PL / UX / Design 협업 
+     - Test Basis (SRS, PRD, UX Scenario) 기반 Test Case 개발
+     - Test Strategy 및 Test Plan 개발
+     - 테스트요약보고서 작성 및 관리
+     - 테스트결과보고서 작성 및 관리
+     - 테스트 산출물 관리
+     - 현재는 RPA를 이용한 WEB 자동화 구현 도입 중 (UI Path이용)
+       * 로봇관제시스템 WEB Page
+ 
+
 <br>
 
  + LG전자 MC인정 TASK팀 - .NET 개발자 (Winform, .Net Core)
