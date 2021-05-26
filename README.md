@@ -17,7 +17,7 @@
      - HhH 서랍형 배송 로봇 (서울대병원, 르호텔, etc)
      - 안내로봇 (현대)
    - 주요 업무
-     - Kick-off ~ Release 참여 
+     - Start Meething ~ DR Meeting 참여 
      - PRD, SRS, UX Scenario Review 참여 
      - PM / SW PL / UX / Design 협업 
      - Test Basis (SRS, PRD, UX Scenario) 기반 Test Case 개발
