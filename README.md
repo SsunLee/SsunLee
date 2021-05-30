@@ -8,9 +8,14 @@
 - 💞️ 하지만 밖에서 놀때는 잘 노는편이야 
 - 📫 그럼 이만 >.<
 
+### **Github Page - Jekyll**
+↓↓ 이미지 클릭 시 이동됩니다. ↓↓↓↓  
+[![image](https://user-images.githubusercontent.com/41108401/120090647-1a1ada80-c13f-11eb-9369-1785f4c802b6.png)](https://ssunlee.github.io/)
+
+
 <br></br>
 ### QA Engineer
- + LG전자 자율주행로봇 로봇품질보증 QA
+ + **LG전자 자율주행로봇 로봇품질보증 QA**
    - 진행 프로젝트 이력
      - 로봇관제시스템(Android, iOS, WEB)
      - F&B 선반형 서빙 로봇 (우아한형제들, Deli)
@@ -31,7 +36,7 @@
 
 <br>
 
- + LG전자 MC인정 TASK팀 - .NET 개발자 (Winform, .Net Core)
+ + **LG전자 MC인정 TASK팀 - .NET 개발자 (Winform, .Net Core)**
    - 품질관리시스템 구축
    - ADB 이용한 Mobile Phone 환경 세팅 자동화 구축
    - 각 종 자산 관리 시스템 구축
@@ -39,20 +44,20 @@
    - 각 종 문서 자동화 개발 (c#, vb.net, mysql, mdb, .. etc)
 <br>
 
- + LG전자 선행개발연구소 - 사업자 APP 팀
+ + **LG전자 선행개발연구소 - 사업자 APP 팀**
    - Log 분석 및 Issue 수정 
    - 구축 된 CI / CD Process 경험 (Jenkins, gerrit)
    - Google CTS Security Test 수행
    - APK Version 관리
 <br>
 
- + LG전자 모바일 단말 검증
+ + **LG전자 모바일 단말 검증**
    - 국내향 / 수출향 LG전자 모바일 단말 검증
    - 기능, 비기능, 호환성 Test Case 수행
    - 검증 리더 업무 수행 
 <br>
 
- + NHN 한게임 QA - 한게임 모바일 사천성
+ + **NHN 한게임 QA - 한게임 모바일 사천성**
    - 기획서 및 시나리오 분석
    - Test Case 개발 및 수행 
    - BTS 사용하여 Bug Report
@@ -60,7 +65,7 @@
    - 업데이트 시기에 맞춰 Dynamic한 Test 수행
 <br>
 
- + ETC
+ + **ETC**
    - 퇴근 자동 Check 프로그램 개발 (C#, Selenium, Pillow)
    - Outlook Email 자동 발송 및 양식 자동화 개발 (Python, win32 api)
    - Excel Printer 자동화 (VBA)
