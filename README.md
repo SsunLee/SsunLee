@@ -8,12 +8,8 @@
 - 💞️ 하지만 밖에서 놀때는 잘 노는편이야 
 - 📫 그럼 이만 >.<
 
-### **Github Page - Jekyll**
-↓↓ 이미지 클릭 시 이동됩니다. ↓↓↓↓  
-[![image](https://user-images.githubusercontent.com/41108401/120090647-1a1ada80-c13f-11eb-9369-1785f4c802b6.png)](https://ssunlee.github.io/)
-
-
 <br></br>
+
 ### QA Engineer
  + **LG전자 자율주행로봇 로봇품질보증 QA**
    - 진행 프로젝트 이력
@@ -30,8 +26,8 @@
      - 테스트요약보고서 작성 및 관리
      - 테스트결과보고서 작성 및 관리
      - 테스트 산출물 관리
-     - 현재는 RPA를 이용한 WEB 자동화 구현 도입 중 (UI Path이용)
-       * 로봇관제시스템 WEB Page
+     - 현재는 RPA를 이용한 WEB 자동화 구현 중 (UI Path이용)
+       * 로봇관제시스템 WEB 자동화 [[Link]](https://github.com/SsunLee/UIPath_rs_service)
  
 
 <br>
@@ -66,7 +62,7 @@
 <br>
 
  + **ETC**
-   - 퇴근 자동 Check 프로그램 개발 (C#, Selenium, Pillow)
+   - 퇴근 자동 Check 프로그램 개발 (C#, Selenium, Pillow) [[Link]](https://github.com/SsunLee/Automation_check)
    - Outlook Email 자동 발송 및 양식 자동화 개발 (Python, win32 api)
    - Excel Printer 자동화 (VBA)
    - Excel 모임비 정산 자동화 (VBA)
