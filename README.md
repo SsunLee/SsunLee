@@ -27,7 +27,7 @@
      - 테스트결과보고서 작성 및 관리
      - 테스트 산출물 관리
      - 현재는 RPA를 이용한 WEB 자동화 구현 중 (UI Path이용)
-       * 로봇관제시스템 WEB 자동화 [[Link]](https://github.com/SsunLee/UIPath_rs_service){: target="_blank"}
+       * 로봇관제시스템 WEB 자동화 [[Link]](https://github.com/SsunLee/UIPath_rs_service)
 
 <br>
 
