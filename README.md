@@ -62,7 +62,7 @@
 
  + **ETC**
    - 퇴근 자동 Check 프로그램 개발 (C#, Selenium, Pillow) [[Link]](https://github.com/SsunLee/Automation_check)
-   - Outlook Email 자동 발송 및 양식 자동화 개발 (Python, win32 api)
+   - Outlook Email 자동 발송 및 양식 자동화 개발 (Python, win32 api) [[Link]](https://github.com/SsunLee/Outlook_Automation_py)
    - Excel Printer 자동화 (VBA)
    - Excel 모임비 정산 자동화 (VBA)
    - APK Auto Install Program 개발 (C#)
