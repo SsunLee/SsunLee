@@ -28,7 +28,7 @@
      - 테스트 산출물 관리
      - 현재는 RPA를 이용한 WEB 자동화 구현 중 (UI Path이용)
        * 로봇관제시스템 WEB 자동화 [[Link]](https://github.com/SsunLee/UIPath_rs_service)
-     - MD5 무결성 Check 자동화 개발
+     - MD5 무결성 Hashfile Check 자동화 개발 [[Link]](https://github.com/SsunLee/MD5_hasfile_Automation)
 
 <br>
 
