@@ -11,6 +11,11 @@
 <br></br>
 
 ### QA Engineer
+
+ - **Riiid QA Engineer**
+   - Update 예정
+
+
  + **LG전자 자율주행로봇 로봇품질보증 QA**
    - 진행 프로젝트 이력
      - 로봇관제시스템(Android, iOS, WEB)
