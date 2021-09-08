@@ -1,19 +1,20 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsunLee&count_bg=%23286892&title_bg=%232E8AE5&icon=csharp.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=true)](https://github.com/SsunLee)
 
 ### My info
-- 👋 나는 쑨쑨배(이순배)
-- 👀 나는 매크로에 관심이 많고 
-- 👀 남에게 지식 공유하는 걸 좋아해 ex 지식iN '지존' !
-- 🌱 집돌이라고 해야 할까 주말에는 주로 죽어있어
-- 💞️ 하지만 밖에서 놀때는 잘 노는편이야 
-- 📫 그럼 이만 >.<
+
 
 <br></br>
 
 ### QA Engineer
 
- - **Riiid QA Engineer**
-   - Update 예정
+ - **Riiid Senior QA Engineer**
+   - Riiid Tutor (산타토익) 서비스 전반에 대한 QA
+   - Riiid Tutor BackOffice QA
+   - Sentry, Firebase Console 성능 Monitoring
+   - Riiid Tutor 추천학습, 선택학습 등에 대한 Automation 제작
+   - Toeic 학습 자동화 (Cefsharp, JavaScript, C#, Net Core3.1 )
+   - Toeic 추천학습 Cycle 자동화 (Python, Selenium, Pillow, BeautifulSoup, pyautogui, JavaScript)
+   - DataGrip, Visual Studio, OneSignal, Figma, CMS, JIRA, Slack, Notion 등 다양한 환경에서의 업무
 
 
  + **LG전자 자율주행로봇 로봇품질보증 QA**
