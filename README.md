@@ -8,10 +8,23 @@
 ### QA Engineer
 
  - **Riiid Senior QA Engineer**
-   - Riiid Tutor (산타토익) 서비스 전반에 대한 QA
-   - Riiid Tutor BackOffice QA
-   - Sentry, Firebase Console 성능 Monitoring
-   - Riiid Tutor 추천학습, 선택학습 등에 대한 Automation 제작
+   - AppStore 및 PlayStore 심사 및 출시 전반에 대한 QA
+   - AppStoreConnect, Google PlayConsole 등 인앱 상품 관리 및 결제 관리
+   - Santa (산타토익) 서비스 전반에 대한 QA
+      - PM, UIUX, BackEnd, FrontEnd, iOS, Android 협업
+      - QA Process 개선 활동
+        - Sprint 기반 QA 활동 
+      - Global QA
+        - JP, TH, TW, VN, US, KR
+      - OneSignal을 통한 Push Message Test 
+   - Santa BackOffice QA
+      - User Management, Payment History, Coupon Management, Marketing & Event Management
+   - Santa Payment BackOffice QA
+      - KCP & Naver Pay & in-App 
+   - Sentry, Grafana, Firebase Console Monitoring
+   - Google Analytics GA Logging, Web GTM(Google Tag Manager) Logging
+   - Santa 추천학습, 선택학습 등에 대한 Automation 제작
+      - Slack API Server, Client 개발하여 자동화 진행 내용을 Slack에 찍는 기능 개발 함.
    - Toeic 학습 자동화 (Cefsharp, JavaScript, C#, Net Core3.1 )
    - Toeic 추천학습 Cycle 자동화 (Python, Selenium, Pillow, BeautifulSoup, pyautogui, JavaScript)
    - DataGrip, Visual Studio, OneSignal, Figma, CMS, JIRA, Slack, Notion 등 다양한 환경에서의 업무
@@ -24,6 +37,7 @@
      - HhH 서랍형 배송 로봇 (서울대병원, 르호텔, etc)
      - 안내로봇 (현대)
    - 주요 업무
+     - AppStore & PlayStore 게시 및 출시 Monitoring
      - Start Meething ~ DR Meeting 참여 
      - PRD, SRS, UX Scenario Review 참여 
      - PM / SW PL / UX / Design 협업 
