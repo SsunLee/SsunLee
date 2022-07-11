@@ -29,40 +29,29 @@
    - Toeic 추천학습 Cycle 자동화 (Python, Selenium, Pillow, BeautifulSoup, pyautogui, JavaScript)
    - DataGrip, Visual Studio, OneSignal, Figma, CMS, JIRA, Slack, Notion 등 다양한 환경에서의 업무
 <EN>
-- Riiid Senior QA Engineer
-
+ - Riiid Senior QA Engineer
    ㆍ  QA for app submission and launch in the AppStore and Google PlayStore
    ㆍ  In-app product management and payment management in AppStoreConnect and Google PlayConsole.
-   
 - QA for all services of Santa Product   
    ㆍ  Collaboration between designers, PM, BackEnd, FrontEnd, PM and QA
-   
 - Global QA   
    ㆍ  JP, TH, TW, VN, US, KR
-   
 - QA for Push Notification  
    ㆍ  OneSignal
    ㆍ  Braze 
-   
 - Santa BackOffice QA  
    ㆍ  User Management, Payment History, Coupon Management, Marketing & Event Management
-   
 - Santa Payment BackOffice QA  
        ㆍ  IMPORT (KCP & Naver Pay & in-App)
-       ㆍ  Subscription Payment QA
-       
+       ㆍ  Subscription Payment QA 
 - Sentry, Grafana, Firebase Console Monitoring  
-
 - Google Analytics GA Logging, Web GTM(Google Tag Manager) Logging  
-
 Developed Automation (Python, C#, JavaScript)  
    ㆍ Ai TestPrep Automation with automation logs in slack (using API)
-   
 Developed automation for TOEIC Learning Services    
    ㆍ  appium, Selenium, Pillow, BeautifulSoup, pyautogui
    ㆍ  iOS / Android / Web 
-   
-- Using collaboration tools such as JIRA, SLACK, Notion and Figma  
+- Using collaboration tools such as JIRA, SLACK, Notion and Figma 
 
 - QA process improvement  
    - Sprint planning for QA
