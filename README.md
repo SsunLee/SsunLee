@@ -8,33 +8,35 @@
 ### QA Engineer
 
  - **Riiid Senior QA Engineer**
+ - Santa (구 산타토익)
    - AppStore 및 PlayStore 심사 및 출시 전반에 대한 QA
    - AppStoreConnect, Google PlayConsole 등 인앱 상품 관리 및 결제 관리
    - Santa (산타토익) 서비스 전반에 대한 QA
-      - PM, UIUX, BackEnd, FrontEnd, iOS, Android 협업
+      - PM, Design, BackEnd, FrontEnd, iOS, Android 협업
       - QA Process 개선 활동
         - Sprint 기반 QA 활동 
       - Global QA
         - JP, TH, TW, VN, US, KR
       - OneSignal을 통한 Push Message Test 
+      - Braze를 통한 Push Message Test
    - Santa BackOffice QA
       - User Management, Payment History, Coupon Management, Marketing & Event Management
-   - Santa Payment BackOffice QA
-      - KCP & Naver Pay & in-App 
+   - Santa Payment QA
+      - KCP & Naver Pay & in-App & Subscription Payments
    - Sentry, Grafana, Firebase Console Monitoring
    - Google Analytics GA Logging, Web GTM(Google Tag Manager) Logging
-   - Santa 추천학습, 선택학습 등에 대한 Automation 제작
-      - Slack API Server, Client 개발하여 자동화 진행 내용을 Slack에 찍는 기능 개발 함.
-   - Toeic 학습 자동화 (Cefsharp, JavaScript, C#, Net Core3.1 )
-   - Toeic 추천학습 Cycle 자동화 (Python, Selenium, Pillow, BeautifulSoup, pyautogui, JavaScript)
    - DataGrip, Visual Studio, OneSignal, Figma, CMS, JIRA, Slack, Notion 등 다양한 환경에서의 업무
-
-
-- QA process improvement  
-   - Sprint planning for QA
-   - Regression Planning 
-   - Test automation 
-   - Test data management
+- **Automation**
+   - iOS / Android / Web Platform 자동화
+    - Mobile (Appium, slack api)
+    - Web (Selenium, Cefsharp, javascript , slack api)
+  - Automation Test Logging
+    - Slack API 이용하여 테스트 진행상황 공유
+    - 테스트 종료 시 HTML형태의 결과 파일 공유 (HTMLTestRunner)
+  - Workflow
+    - Unittest Test Cases 작성 -> Test Suite Merge
+    -> Run Script -> slack log & screen record -> script 종료 -> slack에 자동화 결과 파일 자동 Report
+<br>
 
 
  + **LG전자 자율주행로봇 로봇품질보증 QA**
@@ -95,3 +97,4 @@
    - Excel 모임비 정산 자동화 (VBA) [[Link]](https://blog.naver.com/tnsqo1126/221809841744)
    - APK Auto Install Program 개발 (C#) -> [Source 찾는 중......]
    - Mobile Screen Shot / Screen Recording Tool 개발 (C#) -> [Source 찾는 중......]
+    - SwiftUI 를 이용한 Native App 개발 [[Link]](https://apps.apple.com/us/app/ssun-pay/id1635593176)
